@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '40198'
     url: http://www.gutenberg.org/2009/agents/40198
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39749#Principles-of-Decorative-DesignFourth-Edition
 gutenberg_issued: '2012-05-21'
 gutenberg_type: Text
 identifiers:
